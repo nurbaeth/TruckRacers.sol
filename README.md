@@ -12,7 +12,7 @@
 
 - Players race by moving their trucks forward one cell at a time. 
 - First to reach the finish line wins.
-- Fully on-chain logic, no off-chain dependencies.  
+- Fully on-chain logic, no off-chain dependencies.    
 - No tokens, no bets, no rewards — just code and competition.
 
 ---
