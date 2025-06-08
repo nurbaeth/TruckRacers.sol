@@ -32,7 +32,7 @@ Each move is recorded on-chain. Results are transparent and immutable.
 
 - Language: **Solidity ^0.8.24**
 - Game logic is stored entirely on-chain.
-- Turn-based: players alternate moves.
+- Turn-based: players alternate moves.  
 - Secure access control (no cheating possible).
 - Winner is automatically determined.
 
