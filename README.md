@@ -26,7 +26,7 @@
 
 Each move is recorded on-chain. Results are transparent and immutable.
 
----
+---  
 
 ## 🧠 Smart Contract Overview
 
