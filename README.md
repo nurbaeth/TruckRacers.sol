@@ -9,7 +9,7 @@
 ## 🎮 About the Game  
   
 **TruckRacers** is a minimalist, turn-based racing game for two players on the Ethereum blockchain.  
-    
+      
 - Players race by moving their trucks forward one cell at a time. 
 - First to reach the finish line wins.
 - Fully on-chain logic, no off-chain dependencies.    
