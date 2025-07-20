@@ -24,7 +24,7 @@
 3. Players take turns calling `move()` to race forward.
 4. The first to reach cell `10` is the winner.   
 
-Each move is recorded on-chain. Results are transparent and immutable.
+Each move is recorded on-chain. Results are transparent and immutable. 
 
 ---  
 
