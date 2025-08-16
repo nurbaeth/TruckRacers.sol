@@ -20,7 +20,7 @@
 ## 🔧 How It Works
     
 1. **Player 1** creates a new game.   
-2. **Player 2** joins the game.     
+2. **Player 2** joins the game.      
 3. Players take turns calling `move()` to race forward. 
 4. The first to reach cell `10` is the winner.    
   
