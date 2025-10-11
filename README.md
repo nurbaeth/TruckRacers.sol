@@ -5,7 +5,7 @@
 ![Truck Racing Banner](https://user-images.githubusercontent.com/your-banner-image.jpg) <!-- можешь заменить или удалить -->       
         
 ---                
-    
+     
 ## 🎮 About the Game     
      
 **TruckRacers** is a minimalist, turn-based racing game for two players on the Ethereum blockchain.   
