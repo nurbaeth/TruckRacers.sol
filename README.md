@@ -16,7 +16,7 @@
 - No tokens, no bets, no rewards — just code and competition.    
          
 ---    
-     
+      
 ## 🔧 How It Works
     
 1. **Player 1** creates a new game.   
