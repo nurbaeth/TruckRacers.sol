@@ -15,7 +15,7 @@
 - Fully on-chain logic, no off-chain dependencies.      
 - No tokens, no bets, no rewards — just code and competition.    
         
----  
+---   
      
 ## 🔧 How It Works
     
