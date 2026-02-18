@@ -1,4 +1,4 @@
-# 🚚 TruckRacers.sol              
+# 🚚 TruckRacers.sol               
            
 > 🏁 **On-chain truck racing game in Solidity — no tokens, no rewards, just pure fun.**        
         
