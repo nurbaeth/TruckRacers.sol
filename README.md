@@ -6,7 +6,7 @@
            
 ---                     
         
-## 🎮 About the Game         
+## 🎮 About the Game          
            
 **TruckRacers** is a minimalist, turn-based racing game for two players on the Ethereum blockchain.       
            
