@@ -31,7 +31,7 @@ Each move is recorded on-chain. Results are transparent and immutable.
 ## 🧠 Smart Contract Overview
 
 - Language: **Solidity ^0.8.24** 
-- Game logic is stored entirely on-chain.
+- Game logic is stored entirely on-chain. 
 - Turn-based: players alternate moves.  
 - Secure access control (no cheating possible).
 - Winner is automatically determined.
